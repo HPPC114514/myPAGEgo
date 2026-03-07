@@ -1,6 +1,6 @@
 import type { SiteConfig, TextContent, Links } from '../types'
 
-const BASE_PATH = '/yours'
+const BASE_PATH = ''
 
 export async function fetchConfig(): Promise<SiteConfig> {
   try {

@@ -1,7 +1,7 @@
 {
   "title": "我的个人导航",
   "description": "这里是我的个人空间，欢迎访问",
-  "avatarUrl": "/yours/my.jpg",
-  "backgroundUrl": "/yours/background.jpg",
-  "faviconUrl": "/yours/icon.png"
+  "avatarUrl": "./my.jpg",
+  "backgroundUrl": "./background.jpg",
+  "faviconUrl": "./icon.png"
 }
