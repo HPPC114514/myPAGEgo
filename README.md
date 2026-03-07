@@ -2,6 +2,8 @@
 
 一个简洁美观、高度可自定义的个人导航页，基于 Vue3 + TypeScript + Vite 构建。
 
+[![Deploy to Cloudflare Pages](https://deploy.workers.cloudflare.com/button)](https://dash.cloudflare.com/?to=/:account/pages/new)
+
 ## ✨ 特性
 
 - 🎨 **配置文件驱动**：所有展示内容通过 JSON 文件管理，无需修改代码
