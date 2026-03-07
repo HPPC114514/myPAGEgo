@@ -1,0 +1,26 @@
+[
+  {
+    "title": "个人博客",
+    "url": "https://blog.example.com",
+    "icon": "📝",
+    "target": "_blank"
+  },
+  {
+    "title": "GitHub",
+    "url": "https://github.com/username",
+    "icon": "https://github.githubassets.com/favicon.ico",
+    "target": "_blank"
+  },
+  {
+    "title": "Twitter",
+    "url": "https://twitter.com/username",
+    "icon": "🐦",
+    "target": "_blank"
+  },
+  {
+    "title": "知乎",
+    "url": "https://www.zhihu.com/people/username",
+    "icon": "📖",
+    "target": "_blank"
+  }
+]
