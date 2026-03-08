@@ -2,7 +2,7 @@
 
 一个简洁美观、高度可自定义的个人导航页，基于 Vue3 + TypeScript + Vite 构建。
 
-[![Deploy to Cloudflare Pages](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/HPPC14514/myPAGEgo)
+[![Deploy to Cloudflare Pages](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/HPPC114514/myPAGEgo)
 
 ## ✨ 特性
 
