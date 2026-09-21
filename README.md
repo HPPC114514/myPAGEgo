@@ -229,4 +229,4 @@ A: 确保 `links.json` 中的 `url` 字段包含完整的协议（如 `https://`
 
 ## 📄 许可证
 
-MIT License
+GPL 3.0 License
