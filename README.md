@@ -230,11 +230,3 @@ A: 确保 `links.json` 中的 `url` 字段包含完整的协议（如 `https://`
 ## 📄 许可证
 
 MIT License
-
-## 🙏 致谢
-
-感谢所有使用和支持本项目的开发者！
-
----
-
-**Happy Coding! 🎉**
